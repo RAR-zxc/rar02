@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "rewrites": [
+    {
+      "source": "/api/trace",
+      "destination": "/api/trace.js"
+    }
+  ]
+}
